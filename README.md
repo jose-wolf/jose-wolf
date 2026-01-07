@@ -1,8 +1,8 @@
 <h1>Olá 👋, sou José Wolf</h1>
 
-<p>Sou desenvolvedor Full-stack, e estudante de Engenharia de Software na Unicesumar.</p>
+<p>Sou desenvolvedor Back-end, e estudante de Engenharia de Software na Unicesumar.</p>
 
--  Linguagem de programação:  **HTML,CSS,JavaScrips**.
+-  Linguagem de programação:  **Java**.
 -  Banco de Dados: **PostgreSQL** .
 
 <h3 align="left">Conecte-se comigo:</h3>
