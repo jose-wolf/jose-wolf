@@ -4,6 +4,7 @@
 
 -  Linguagem de programação:  **Java**.
 -  Banco de Dados: **PostgreSQL** .
+-  Framework: Spring boot, Spring Data JPA, Spring Security
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
