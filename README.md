@@ -1,10 +1,12 @@
 <h1>Olá 👋, sou José Wolf</h1>
 
-<p>Sou desenvolvedor Back-end, e estudante de Engenharia de Software na Unicesumar.</p>
+<p>Sou QA, e aspirante a desenvolvimente full stack .</p>
 
--  Linguagem de programação:  **Java**.
--  Banco de Dados: **PostgreSQL** .
--  Framework: Spring boot, Spring Data JPA, Spring Security
+- **Testes manuais**
+- **Testes automatizados**: Robot Framework, Selenium
+-  **Linguagem de programação**:  **Java**.
+-  **Banco de Dados**: PostgreSQL .
+-  **Framework**: Spring boot, Spring Data JPA, Spring Security
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
