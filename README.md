@@ -1,14 +1,45 @@
-<h1>Olá 👋, sou José Wolf</h1>
+# Olá, sou José Wolf 
 
-<p>Sou QA, e aspirante a desenvolvimente full stack .</p>
+**QA em formação | Testes manuais e automação | Robot Framework e Selenium**
 
-- **Testes manuais**
-- **Testes automatizados**: Robot Framework, Selenium
--  **Linguagem de programação**:  **Java**.
--  **Banco de Dados**: PostgreSQL .
--  **Framework**: Spring boot, Spring Data JPA, Spring Security
+Sou formado em **Engenharia de Software** e estou direcionando minha carreira para **Qualidade de Software (QA)**. Pratico testes manuais, documentação de cenários e casos de teste, registro de bugs e automação web.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jose-wolf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josewolf/" height="30" width="40" /></a>
-</p>
+Também estudo **Java e Spring Boot** para aprofundar meus conhecimentos em APIs, regras de negócio e desenvolvimento back-end.
+
+**Objetivo:** conquistar minha primeira oportunidade profissional na área de QA.
+
+## Conhecimentos em QA
+
+- Testes funcionais manuais: cenários positivos e negativos
+- Planejamento, cenários e casos de teste
+- Documentação de defeitos e evidências
+- Automação web com Robot Framework e SeleniumLibrary
+- Estudos de automação com Selenium WebDriver e Java
+- Estudos de testes de APIs e back-end com JUnit 5, Mockito e MockMvc
+
+## 🛠️ Tecnologias
+
+- **Testes e automação:** Robot Framework, SeleniumLibrary, Selenium, JUnit 5
+- **Programação:** Java e Python
+- **Back-end:** Spring Boot e Spring Data JPA
+- **Dados:** PostgreSQL e H2
+- **Ferramentas:** Git, GitHub, Maven
+
+## Projetos em Destaque
+
+### [Automação do SauceDemo — Robot Framework](https://github.com/jose-wolf/josewolf-robot-framework)
+- Automação de interface com **27 testes**, abrangendo login, produtos, carrinho e checkout. Inclui instruções de execução, cenários documentados e evidência de resultados.
+
+### [Testes manuais — SauceDemo](https://github.com/jose-wolf/josewolf-QA-testes-manuais-pratica)
+- Prática de testes manuais com plano de teste, casos de teste, relatórios de bugs e evidências.
+
+
+
+## 🎓 Formação
+
+**Engenharia de Software** — graduação concluida.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/jose-wolf/)
+[Email](mailto:wolf.jose89@gmail.com)
