@@ -34,10 +34,10 @@ Também estudo **Java e Spring Boot** para aprofundar meus conhecimentos em APIs
 
 ## 🎓 Formação
 
-**Engenharia de Software** — graduação concluida.
+**Engenharia de Software** — graduação concluída.
 
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/jose-wolf/)
 
-[Email](mailto:wolf.jose89@gmail.com)
+[E-mail](mailto:wolf.jose89@gmail.com)
