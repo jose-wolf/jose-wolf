@@ -30,9 +30,6 @@ Também estudo **Java e Spring Boot** para aprofundar meus conhecimentos em APIs
 ### [Automação do SauceDemo — Robot Framework](https://github.com/jose-wolf/josewolf-robot-framework)
 - Automação de interface com **27 testes**, abrangendo login, produtos, carrinho e checkout. Inclui instruções de execução, cenários documentados e evidência de resultados.
 
-### [Testes manuais — SauceDemo](https://github.com/jose-wolf/josewolf-QA-testes-manuais-pratica)
-- Prática de testes manuais com plano de teste, casos de teste, relatórios de bugs e evidências.
-
 
 
 ## 🎓 Formação
